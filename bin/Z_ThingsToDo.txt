@@ -1,0 +1,34 @@
+###### Edit name of weight  
+###### Be able to delete weights
+###### Create UI for Grades
+
+###### Add ability to add grades
+###### Ability to delete grades
+###### Ability to switch modes for grades
+###### Ability to scroll through grades
+###### Ability to edit number(s) for grade
+###### Ability to edit Name of grade
+###### Auto range limit for typing grade numbers
+###### Ability to click on down menu button or grade
+###### Have the drop down meny appear
+###### Ability to scroll weight options
+###### Ability to choose weight for grade 
+###### Set real range of scroll for grade weight menu
+###### Display actual letter grade from list of grades
+###### Include the bounds of the mouse clicks for all weight and grade items
+
+ Ability to specify the number arguments for letter grades
+ Fix visual bug for pie chart
+###### Fix serialization issue/add on to what needs to be serialized
+ Add scroll bar for each scrollable screen/gui
+ Have a single blinking line indicator while editing text
+
+~~~~~~~~~ OPTIONAL IDEAS ~~~~~~~~~ 
+- ###### add ability to have custom rgb value input and speed for rgb change
+- custom colors for weights
+- Weighted and Unweighted GPA Calculator
+- have little dotted line animation when hovering over "editable" components 
+- fix the squishing name of class in "Classes" screen on the left with ...
+- selection for different fonts
+- add ability to add and delete classes
+- clean up code and use java docs
